@@ -25,3 +25,8 @@
 | Integration test| Week 2, April| Yet to Start|
 | Load test for load balancing |Week 3, April| Yet to Start|
 | Project Documentation	| Week 4, April| Yet to Start|
+
+
+## Project Data Flow
+
+![](https://github.com/megado123/CS498-Cloud-Computing-Project-Overview/blob/master/images/CS498DataFlow.png)
